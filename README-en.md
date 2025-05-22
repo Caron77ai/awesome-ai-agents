@@ -94,47 +94,47 @@ Fellou is the world's first agentic browser, aiming to make AI agents a digital 
 ---
 
 ### [Manus (General AI Agent)](https://manus.im/usecase-official-collection)
-Manus is a general AI agent that turns your thoughts into actions, supporting multi-domain automation tasks for data analysis, education, productivity, B2B research, and more.
+Manus is a general AI agent that turns your ideas into actions, supporting multi-domain automation tasks for data analysis, education, productivity, B2B research, and more.
 
 #### Typical Use Cases
 
-- ![Trip to Japan in April](https://files.manuscdn.com/webapp/_next/static/media/img24.fad57c99.webp)
+- ![Trip to Japan in April](./agents/manus/images/trip-to-japan-in-april.webp)
   **Trip to Japan in April**
   > Integrate comprehensive travel information to create personalized itineraries and a custom travel handbook for your Japanese adventure.
 
-- ![Interactive course on the momentum theorem](https://files.manuscdn.com/webapp/_next/static/media/img38.6cb28611.webp)
+- ![Interactive course on the momentum theorem](./agents/manus/images/interactive-course-momentum-theorem.webp)
   **Interactive course on the momentum theorem**
   > Develop engaging video presentations for middle school educators, clearly explaining the momentum theorem.
 
-- ![Comparative analysis of insurance policies](https://files.manuscdn.com/webapp/_next/static/media/img50.4a6ca47f.webp)
+- ![Comparative analysis of insurance policies](./agents/manus/images/comparative-analysis-insurance-policies.webp)
   **Comparative analysis of insurance policies**
   > Generate clear, structured comparison tables highlighting key policy information with optimal recommendations.
 
-- ![B2B supplier sourcing](https://files.manuscdn.com/webapp/_next/static/media/img10.1d021bec.webp)
+- ![B2B supplier sourcing](./agents/manus/images/b2b-supplier-sourcing.webp)
   **B2B supplier sourcing**
   > Conduct comprehensive research to identify the most suitable suppliers for your requirements.
 
-- ![Research on AI products for the clothing industry](https://files.manuscdn.com/webapp/_next/static/media/img54.2f106657.webp)
+- ![Research on AI products for the clothing industry](./agents/manus/images/research-ai-products-clothing-industry.webp)
   **Research on AI products for the clothing industry**
   > In-depth research and competitive analysis of AI search products in the clothing industry.
 
-- ![Online store operation analysis](https://files.manuscdn.com/webapp/_next/static/media/img1.6e6d84c3.webp)
+- ![Online store operation analysis](./agents/manus/images/online-store-operation-analysis.webp)
   **Online store operation analysis**
   > Upload Amazon store sales data and get actionable insights, visualizations, and strategies to increase sales.
 
-- ![Campaign explanation maps](https://files.manuscdn.com/webapp/_next/static/media/img52.ff391355.webp)
+- ![Campaign explanation maps](./agents/manus/images/campaign-explanation-maps.webp)
   **Campaign explanation maps**
   > Custom-designed visualization maps that bring historical events like the Battle of Lexington to life.
 
-- ![Candidate interview schedule](https://files.manuscdn.com/webapp/_next/static/media/img27.720b9744.webp)
+- ![Candidate interview schedule](./agents/manus/images/candidate-interview-schedule.webp)
   **Candidate interview schedule**
   > Efficiently organize interviews for 40 candidates with optimal time management.
 
-- ![Find potential customers](https://files.manuscdn.com/webapp/_next/static/media/img37.36a2a9c5.webp)
+- ![Find potential customers](./agents/manus/images/find-potential-customers.webp)
   **Find potential customers**
   > Develop comprehensive customer mapping to identify your ideal B2B prospects.
 
-- ![Professional teleprompter](https://files.manuscdn.com/webapp/_next/static/media/img30.6e3c8375.webp)
+- ![Professional teleprompter](./agents/manus/images/professional-teleprompter.webp)
   **Professional teleprompter**
   > Customized teleprompter system for flawless presentations.
 

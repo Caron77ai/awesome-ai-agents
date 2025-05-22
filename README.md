@@ -100,44 +100,44 @@ Manus 是一款通用型 AI Agent，能够将你的想法转化为行动，支�
 
 #### 典型 Use Cases
 
-- ![Trip to Japan in April](https://files.manuscdn.com/webapp/_next/static/media/img24.fad57c99.webp)
-  **Trip to Japan in April**
+- ![Trip to Japan in April](./agents/manus/images/trip-to-japan-in-april.webp)
+  **定制日本旅行手册**
   > 整合全面的旅行信息，生成专属行程与定制旅行手册。
 
-- ![Interactive course on the momentum theorem](https://files.manuscdn.com/webapp/_next/static/media/img38.6cb28611.webp)
-  **Interactive course on the momentum theorem**
+- ![Interactive course on the momentum theorem](./agents/manus/images/interactive-course-momentum-theorem.webp)
+  **动量定理互动课程**
   > 为中学教师开发动量定理互动课程，生成易于理解的视频内容。
 
-- ![Comparative analysis of insurance policies](https://files.manuscdn.com/webapp/_next/static/media/img50.4a6ca47f.webp)
-  **Comparative analysis of insurance policies**
+- ![Comparative analysis of insurance policies](./agents/manus/images/comparative-analysis-insurance-policies.webp)
+  **保险方案对比分析**
   > 自动生成结构化对比表，突出关键信息并给出最优推荐。
 
-- ![B2B supplier sourcing](https://files.manuscdn.com/webapp/_next/static/media/img10.1d021bec.webp)
-  **B2B supplier sourcing**
+- ![B2B supplier sourcing](./agents/manus/images/b2b-supplier-sourcing.webp)
+  **B2B 供应商筛选**
   > 跨网络调研，智能筛选最合适的供应商。
 
-- ![Research on AI products for the clothing industry](https://files.manuscdn.com/webapp/_next/static/media/img54.2f106657.webp)
-  **Research on AI products for the clothing industry**
+- ![Research on AI products for the clothing industry](./agents/manus/images/research-ai-products-clothing-industry.webp)
+  **AI 产品行业调研**
   > 深入分析服装行业 AI 搜索产品，输出竞品分析与定位。
 
-- ![Online store operation analysis](https://files.manuscdn.com/webapp/_next/static/media/img1.6e6d84c3.webp)
-  **Online store operation analysis**
+- ![Online store operation analysis](./agents/manus/images/online-store-operation-analysis.webp)
+  **亚马逊店铺运营分析**
   > 上传亚马逊店铺销售数据，自动生成可视化报告和提升建议。
 
-- ![Campaign explanation maps](https://files.manuscdn.com/webapp/_next/static/media/img52.ff391355.webp)
-  **Campaign explanation maps**
+- ![Campaign explanation maps](./agents/manus/images/campaign-explanation-maps.webp)
+  **历史事件可视化地图**
   > 生成历史事件（如列克星敦战役）可视化地图，提升学生理解。
 
-- ![Candidate interview schedule](https://files.manuscdn.com/webapp/_next/static/media/img27.720b9744.webp)
-  **Candidate interview schedule**
+- ![Candidate interview schedule](./agents/manus/images/candidate-interview-schedule.webp)
+  **候选人面试排期**
   > 高效安排 40 人面试，最大化时间利用率。
 
-- ![Find potential customers](https://files.manuscdn.com/webapp/_next/static/media/img37.36a2a9c5.webp)
-  **Find potential customers**
+- ![Find potential customers](./agents/manus/images/find-potential-customers.webp)
+  **潜在客户挖掘**
   > 根据业务模型和目标客户画像，智能生成潜在客户列表。
 
-- ![Professional teleprompter](https://files.manuscdn.com/webapp/_next/static/media/img30.6e3c8375.webp)
-  **Professional teleprompter**
+- ![Professional teleprompter](./agents/manus/images/professional-teleprompter.webp)
+  **专业提词器**
   > 定制化提词器系统，提升演讲和展示效果。
 
 > 更多用例详见 [Manus 官方 Use Case 集合](https://manus.im/usecase-official-collection)

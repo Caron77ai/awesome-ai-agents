@@ -44,11 +44,11 @@ Fellou is the world's first agentic browser, aiming to make AI agents a digital 
 #### Typical Use Cases
 
 - ![Find iPhone Slogans](./agents/fellou/images/find-iphone-slogans.png)
-  **Find iPhone Slogans**
+  **[Find iPhone Slogans](https://chat.fellou.ai/report/share/iphone-slogans-timeline-2sOyql6B)**
   > Find the promotional slogans of iPhone over the years.
 
 - ![Tesla Revenue, EBITDA & Shipments](./agents/fellou/images/tesla-revenue-ebitda-shipments.png)
-  **Tesla Revenue, EBITDA & Shipments**
+  **[Tesla Revenue, EBITDA & Shipments](https://chat.fellou.ai/report/cd489dfe-b6ca-4447-9b35-5e8e88df11a8)**
   > Retrieve Tesla's revenue, EBITDA, and shipments for the past 12 quarters.
 
 - ![Product Hunt to Notion](./agents/fellou/images/product-hunt-to-notion.png)
@@ -56,15 +56,15 @@ Fellou is the world's first agentic browser, aiming to make AI agents a digital 
   > Add names and intros of the top 8 Product Hunt products to the open Notion page.
 
 - ![Unique Gift Finds](./agents/fellou/images/unique-gift-finds.png)
-  **Unique Gift Finds**
+  **[Unique Gift Finds](https://chat.fellou.ai/report/share/personalized-gift-guide-OAJrwZrm)**
   > Discover unique and personalized gift ideas from creative platforms and niche markets.
 
 - ![Silicon Valley AI Tracker](./agents/fellou/images/silicon-valley-ai-tracker.png)
-  **Silicon Valley AI Tracker**
+  **[Silicon Valley AI Tracker](https://chat.fellou.ai/report/share/ai-investment-dashboard-eG5-BPVp)**
   > Aggregate AI trends from top 20 Silicon Valley VC websites, including investments, views, and progress, with original links.
 
 - ![Find C++ Engineers](./agents/fellou/images/find-cpp-engineers.png)
-  **Find C++ Engineers**
+  **[Find C++ Engineers](https://chat.fellou.ai/report/2e21f461-68ef-4e6a-abd1-37511319f841)**
   > Search LinkedIn for browser engineers with C++ experience. Provide brief intros and profile links for each.
 
 - ![Book meeting on Calendar](./agents/fellou/images/book-meeting-on-calendar.png)
@@ -72,7 +72,7 @@ Fellou is the world's first agentic browser, aiming to make AI agents a digital 
   > Open Google Calendar and schedule an AI technology sharing session.
 
 - ![Burn Fat at Home](./agents/fellou/images/burn-fat-at-home.png)
-  **Burn Fat at Home**
+  **[Burn Fat at Home](https://chat.fellou.ai/report/share/beginner-home-workout-guide-BQMVlIER)**
   > Beginner-friendly fat-burning home workouts and weekly training suggestions.
 
 - ![Post article on LinkedIn](./agents/fellou/images/post-article-on-linkedin.png)
@@ -80,11 +80,11 @@ Fellou is the world's first agentic browser, aiming to make AI agents a digital 
   > Open LinkedIn, write and publish an article sharing your opinion on DeepSeek.
 
 - ![AI PM Trends](./agents/fellou/images/ai-pm-trends.png)
-  **AI PM Trends**
+  **[AI PM Trends](https://chat.fellou.ai/report/share/ai-product-manager-job-analysis-9Y5zKcI1)**
   > Analyze LinkedIn job descriptions for AI Product Manager roles, focusing on skills, experience, and hiring trends.
 
 - ![Headphone Feedback Analysis](./agents/fellou/images/headphone-feedback-analysis.png)
-  **Headphone Feedback Analysis**
+  **[Headphone Feedback Analysis](https://chat.fellou.ai/report/share/headphone-feedback-analysis-v2QhwCJi)**
   > Analyze Twitter/Reddit headphone feedback from past 30 days, summarize user concerns, and prioritize development/marketing improvements.
 
 - ![Send Google email](./agents/fellou/images/send-google-email.png)

@@ -43,51 +43,51 @@ Fellou is the world's first agentic browser, aiming to make AI agents a digital 
 
 #### Typical Use Cases
 
-- ![Find iPhone Slogans](https://fellou.s3.us-west-1.amazonaws.com/user-contents/images/show-cases/reckmiufRhUbK2oQp.png)
+- ![Find iPhone Slogans](./agents/fellou/images/find-iphone-slogans.png)
   **Find iPhone Slogans**
   > Find the promotional slogans of iPhone over the years.
 
-- ![Tesla Revenue, EBITDA & Shipments](https://fellou.s3.us-west-1.amazonaws.com/user-contents/Tesla+Revenue%2C+EBITDA+%26+Shipments.png)
+- ![Tesla Revenue, EBITDA & Shipments](./agents/fellou/images/tesla-revenue-ebitda-shipments.png)
   **Tesla Revenue, EBITDA & Shipments**
   > Retrieve Tesla's revenue, EBITDA, and shipments for the past 12 quarters.
 
-- ![Product Hunt to Notion](https://fellou.ai/_next/image?url=https%3A%2F%2Fcdn.fellou.ai%2Fimages%2Fimages%2Fhome%2Fvideo-bg.png&w=3840&q=75)
+- ![Product Hunt to Notion](./agents/fellou/images/product-hunt-to-notion.png)
   **Product Hunt to Notion**
   > Add names and intros of the top 8 Product Hunt products to the open Notion page.
 
-- ![Unique Gift Finds](https://fellou.s3.us-west-1.amazonaws.com/user-contents/images/show-cases/recvoJAGJW7yfJoUq.png)
+- ![Unique Gift Finds](./agents/fellou/images/unique-gift-finds.png)
   **Unique Gift Finds**
   > Discover unique and personalized gift ideas from creative platforms and niche markets.
 
-- ![Silicon Valley AI Tracker](https://fellou.s3.us-west-1.amazonaws.com/user-contents/images/show-cases/reciaX7Br5osDKOVn.png)
+- ![Silicon Valley AI Tracker](./agents/fellou/images/silicon-valley-ai-tracker.png)
   **Silicon Valley AI Tracker**
   > Aggregate AI trends from top 20 Silicon Valley VC websites, including investments, views, and progress, with original links.
 
-- ![Find C++ Engineers](https://fellou.s3.us-west-1.amazonaws.com/user-contents/C%2B%2BEngineers+.png)
+- ![Find C++ Engineers](./agents/fellou/images/find-cpp-engineers.png)
   **Find C++ Engineers**
   > Search LinkedIn for browser engineers with C++ experience. Provide brief intros and profile links for each.
 
-- ![Book meeting on Calendar](https://fellou.ai/_next/image?url=https%3A%2F%2Fcdn.fellou.ai%2Fimages%2Fimages%2Fhome%2Fvideo-bg.png&w=3840&q=75)
+- ![Book meeting on Calendar](./agents/fellou/images/book-meeting-on-calendar.png)
   **Book meeting on Calendar**
   > Open Google Calendar and schedule an AI technology sharing session.
 
-- ![Burn Fat at Home](https://fellou.s3.us-west-1.amazonaws.com/user-contents/images/show-cases/recAsAyBtwrCs0BSk.png)
+- ![Burn Fat at Home](./agents/fellou/images/burn-fat-at-home.png)
   **Burn Fat at Home**
   > Beginner-friendly fat-burning home workouts and weekly training suggestions.
 
-- ![Post article on LinkedIn](https://fellou.ai/_next/image?url=https%3A%2F%2Fcdn.fellou.ai%2Fimages%2Fimages%2Fhome%2Fvideo-bg.png&w=3840&q=75)
+- ![Post article on LinkedIn](./agents/fellou/images/post-article-on-linkedin.png)
   **Post article on LinkedIn**
   > Open LinkedIn, write and publish an article sharing your opinion on DeepSeek.
 
-- ![AI PM Trends](https://fellou.s3.us-west-1.amazonaws.com/user-contents/images/show-cases/recwWnxVykpPFOAAq.png)
+- ![AI PM Trends](./agents/fellou/images/ai-pm-trends.png)
   **AI PM Trends**
   > Analyze LinkedIn job descriptions for AI Product Manager roles, focusing on skills, experience, and hiring trends.
 
-- ![Headphone Feedback Analysis](https://fellou.s3.us-west-1.amazonaws.com/user-contents/images/show-cases/recGAllgpNtXvPEGk.png)
+- ![Headphone Feedback Analysis](./agents/fellou/images/headphone-feedback-analysis.png)
   **Headphone Feedback Analysis**
   > Analyze Twitter/Reddit headphone feedback from past 30 days, summarize user concerns, and prioritize development/marketing improvements.
 
-- ![Send Google email](https://fellou.ai/_next/image?url=https%3A%2F%2Fcdn.fellou.ai%2Fimages%2Fimages%2Fhome%2Fvideo-bg.png&w=3840&q=75)
+- ![Send Google email](./agents/fellou/images/send-google-email.png)
   **Send Google email**
   > Send a friendly email inviting the team to a meeting at 9 AM tomorrow.
 

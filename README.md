@@ -1,8 +1,32 @@
-# Awesome AI Agents
+# Awesome AI Agents 🚀
 
-> 汇集最全、最有趣、最实用的 AI Agent 项目与资源。
-> 
-> *A curated collection of the most comprehensive, interesting, and practical AI Agent projects and resources.*
+[![English](https://img.shields.io/badge/English-Docs-yellow)](README-en.md)
+[![简体中文](https://img.shields.io/badge/简体中文-当前-orange)](README.md)
+
+🎉 **欢迎来到 Awesome AI Agents！**
+
+> **最全、最有趣、最实用的 AI Agent 项目与案例精选。**  
+> 汇聚全球前沿 Agentic 浏览器、通用智能体、AI 设计助手等创新应用，助你高效探索自动化与智能生产力新边界！
+
+Awesome AI Agents 致力于收录和整理各类 AI Agent 项目，聚焦自动化工作流、场景驱动能力与实际应用效果。  
+无论你是开发者、产品经理还是 AI 爱好者，都能在这里快速了解、体验和对比不同 Agent 的创新玩法与落地案例。
+
+- **覆盖领域广**：浏览器、办公、设计、教育、B2B、内容创作等
+- **案例丰富**：每个 Agent 配套真实场景用例，快速上手
+- **持续更新**：紧跟 AI Agent 领域最新进展，欢迎社区共建
+
+> **喜欢就点 Star 支持！也欢迎 PR 贡献你的发现与案例！**
+
+---
+
+<div align="center">
+
+| 🧠 自动化 | 🌐 场景驱动 | 💡 创意协作 | 🚀 高效办公 |
+|:--------:|:----------:|:----------:|:----------:|
+| 智能浏览 | 数据分析   | 设计生成   | 日常助理   |
+| 任务执行 | 行业调研   | 创意表达   | 跨应用集成 |
+
+</div>
 
 ---
 
@@ -20,7 +44,14 @@
 
 ## 项目介绍
 
-Awesome AI Agents 致力于收录和整理各类 AI Agent 项目，突出自动化工作流和场景驱动能力，帮助开发者和用户快速了解、体验和对比不同 Agent 的实际应用与效果。
+Awesome AI Agents 致力于收录和整理各类 AI Agent 项目，聚焦自动化工作流、场景驱动能力与实际应用效果。  
+无论你是开发者、产品经理还是 AI 爱好者，都能在这里快速了解、体验和对比不同 Agent 的创新玩法与落地案例。
+
+- **覆盖领域广**：浏览器、办公、设计、教育、B2B、内容创作等
+- **案例丰富**：每个 Agent 配套真实场景用例，快速上手
+- **持续更新**：紧跟 AI Agent 领域最新进展，欢迎社区共建
+
+> **喜欢就点 Star 支持！也欢迎 PR 贡献你的发现与案例！**
 
 ---
 
@@ -353,4 +384,4 @@ Awesome AI Agents 致力于收录和整理各类 AI Agent 项目，突出自动�
 
 ## English
 
-For English documentation, please refer to [README-en.md](./README-en.md). 
+For English documentation, please refer to [README-en.md](./README-en.md).

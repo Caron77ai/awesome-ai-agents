@@ -102,45 +102,95 @@ Manus 是一款通用型 AI Agent，能够将你的想法转化为行动，支�
 
 - ![Trip to Japan in April](./agents/manus/images/trip-to-japan-in-april.webp)
   **定制日本旅行手册**
+  [查看案例](https://manus.im/share/brWKUSp51ItvVMBpcXNCZ1?replay=1)
   > 整合全面的旅行信息，生成专属行程与定制旅行手册。
 
 - ![Interactive course on the momentum theorem](./agents/manus/images/interactive-course-momentum-theorem.webp)
   **动量定理互动课程**
+  [查看案例](https://manus.im/share/pAdLIvlktJmV945593mFio?replay=1)
   > 为中学教师开发动量定理互动课程，生成易于理解的视频内容。
 
 - ![Comparative analysis of insurance policies](./agents/manus/images/comparative-analysis-insurance-policies.webp)
   **保险方案对比分析**
+  [查看案例](https://manus.im/share/1ICnnOiC9L3HMK07vG0iDn?replay=1)
   > 自动生成结构化对比表，突出关键信息并给出最优推荐。
 
 - ![B2B supplier sourcing](./agents/manus/images/b2b-supplier-sourcing.webp)
   **B2B 供应商筛选**
+  [查看案例](https://manus.im/share/j7BUZNaC7vxEpqBU5GYQOR?replay=1)
   > 跨网络调研，智能筛选最合适的供应商。
 
 - ![Research on AI products for the clothing industry](./agents/manus/images/research-ai-products-clothing-industry.webp)
   **AI 产品行业调研**
+  [查看案例](https://manus.im/share/jr5CKBMJJZDxvU2S5VdZLw?replay=1)
   > 深入分析服装行业 AI 搜索产品，输出竞品分析与定位。
 
 - ![Online store operation analysis](./agents/manus/images/online-store-operation-analysis.webp)
   **亚马逊店铺运营分析**
+  [查看案例](https://manus.im/share/rVGPb6ocLpsjFkchJaP7iN?replay=1)
   > 上传亚马逊店铺销售数据，自动生成可视化报告和提升建议。
 
 - ![Campaign explanation maps](./agents/manus/images/campaign-explanation-maps.webp)
   **历史事件可视化地图**
+  [查看案例](https://manus.im/share/c3onakN6Iajcm1Vt1xAVG7?replay=1)
   > 生成历史事件（如列克星敦战役）可视化地图，提升学生理解。
 
 - ![Candidate interview schedule](./agents/manus/images/candidate-interview-schedule.webp)
   **候选人面试排期**
+  [查看案例](https://manus.im/share/ctZLPRkXiAxP6DGsJNdUdL?replay=1)
   > 高效安排 40 人面试，最大化时间利用率。
 
 - ![Find potential customers](./agents/manus/images/find-potential-customers.webp)
   **潜在客户挖掘**
+  [查看案例](https://manus.im/share/AN3pVVcq4qHnWbC55XhAYB?replay=1)
   > 根据业务模型和目标客户画像，智能生成潜在客户列表。
 
 - ![Professional teleprompter](./agents/manus/images/professional-teleprompter.webp)
   **专业提词器**
+  [查看案例](https://manus.im/share/YIRZaLUfghVxGCN7dE6hbI?replay=1)
   > 定制化提词器系统，提升演讲和展示效果。
 
-> 更多用例详见 [Manus 官方 Use Case 集合](https://manus.im/usecase-official-collection)
+
+---
+
+### [Lovart（AI 设计 Agent）](https://www.lovart.ai/)
+Lovart 是一款新一代 AI 设计 Agent，致力于将人类创意与 AI 智能深度融合，支持自动化创意生成、协同设计与多场景落地，适用于品牌、包装、艺术、营销等多元设计需求。
+
+#### 核心特性
+- 人机协同创作：支持 AI 与设计师同屏协作，提升创意效率
+- 多场景设计：涵盖品牌、包装、艺术、营销等多种设计场景
+- 一键多稿：单次输入即可生成多种风格与尺寸的设计稿
+- 智能编辑与微调：AI 辅助下的细节调整与高效迭代
+- API 集成：支持与主流设计/生产工具集成，便于工作流自动化
+
+#### 典型 Use Case
+- ![The Bag Design](./agents/lovart/images/bag-design.png)
+  **先锋包袋设计**
+  > Lovart 结合前卫造型与高定美学，自动生成独特包袋设计方案。
+  [查看案例](https://www.lovart.ai/r/pgmbiz7)
+- ![The Coffee Collection](./agents/lovart/images/coffee-collection.png)
+  **咖啡品牌包装**
+  > 为 Duck Coffee 打造环保且极具视觉冲击力的包装设计。
+  [查看案例](https://www.lovart.ai/r/f2qi0ri)
+- ![The Pixel Party](./agents/lovart/images/pixel-party.png)
+  **像素派对海报**
+  > 利用像素风格与高级排版，生成游戏主题创意海报。
+  [查看案例](https://www.lovart.ai/r/1myj89s)
+- ![The Pet Brand Design](./agents/lovart/images/pet-brand-design.png)
+  **宠物品牌手绘 LOGO**
+  > 将宠物形象转化为品牌手绘 LOGO，兼具趣味与辨识度。
+  [查看案例](https://www.lovart.ai/r/dursp5z)
+- ![The Art Masterpiece](./agents/lovart/images/art-masterpiece.png)
+  **艺术海报创作**
+  > 利用强烈色彩与超现实质感，生成极具张力的艺术海报。
+  [查看案例](https://www.lovart.ai/r/8gcgadq)
+- ![The Marketing Meme Set](./agents/lovart/images/marketing-meme-set.png)
+  **营销 Meme 四格漫画**
+  > 自动生成创意四格漫画，助力品牌营销内容出圈。
+  [查看案例](https://www.lovart.ai/r/vjicewk)
+- ![AI 设计演示动图](./agents/lovart/images/auto-design-demo.gif)
+  **AI 设计实时演示**
+  > 展示 Lovart 自动化设计流程与人机协同创作体验。
 
 ---
 

@@ -27,6 +27,8 @@ agents/
   > 全球首个 Agentic 浏览器，支持智能浏览、自动执行任务、跨应用集成，适合高效信息处理和自动化办公。
 - [Manus（通用 AI Agent）](./manus/)
   > 通用型 AI Agent，支持多领域自动化任务，适用于数据分析、教育、B2B 研究等多场景。
+- [Lovart（AI 设计 Agent）](./lovart/)
+  > 新一代 AI 设计 Agent，支持自动化创意生成与多场景设计协作，助力极致创意与高效设计落地。
 
 > 每个 agent 目录下的 README.md 详见具体内容。
 

@@ -100,45 +100,96 @@ Manus is a general AI agent that turns your ideas into actions, supporting multi
 
 - ![Trip to Japan in April](./agents/manus/images/trip-to-japan-in-april.webp)
   **Trip to Japan in April**
+  [View Case](https://manus.im/share/brWKUSp51ItvVMBpcXNCZ1?replay=1)
   > Integrate comprehensive travel information to create personalized itineraries and a custom travel handbook for your Japanese adventure.
 
 - ![Interactive course on the momentum theorem](./agents/manus/images/interactive-course-momentum-theorem.webp)
   **Interactive course on the momentum theorem**
+  [View Case](https://manus.im/share/pAdLIvlktJmV945593mFio?replay=1)
   > Develop engaging video presentations for middle school educators, clearly explaining the momentum theorem.
 
 - ![Comparative analysis of insurance policies](./agents/manus/images/comparative-analysis-insurance-policies.webp)
   **Comparative analysis of insurance policies**
+  [View Case](https://manus.im/share/1ICnnOiC9L3HMK07vG0iDn?replay=1)
   > Generate clear, structured comparison tables highlighting key policy information with optimal recommendations.
 
 - ![B2B supplier sourcing](./agents/manus/images/b2b-supplier-sourcing.webp)
   **B2B supplier sourcing**
+  [View Case](https://manus.im/share/j7BUZNaC7vxEpqBU5GYQOR?replay=1)
   > Conduct comprehensive research to identify the most suitable suppliers for your requirements.
 
 - ![Research on AI products for the clothing industry](./agents/manus/images/research-ai-products-clothing-industry.webp)
   **Research on AI products for the clothing industry**
+  [View Case](https://manus.im/share/jr5CKBMJJZDxvU2S5VdZLw?replay=1)
   > In-depth research and competitive analysis of AI search products in the clothing industry.
 
 - ![Online store operation analysis](./agents/manus/images/online-store-operation-analysis.webp)
   **Online store operation analysis**
+  [View Case](https://manus.im/share/rVGPb6ocLpsjFkchJaP7iN?replay=1)
   > Upload Amazon store sales data and get actionable insights, visualizations, and strategies to increase sales.
 
 - ![Campaign explanation maps](./agents/manus/images/campaign-explanation-maps.webp)
   **Campaign explanation maps**
+  [View Case](https://manus.im/share/c3onakN6Iajcm1Vt1xAVG7?replay=1)
   > Custom-designed visualization maps that bring historical events like the Battle of Lexington to life.
 
 - ![Candidate interview schedule](./agents/manus/images/candidate-interview-schedule.webp)
   **Candidate interview schedule**
+  [View Case](https://manus.im/share/ctZLPRkXiAxP6DGsJNdUdL?replay=1)
   > Efficiently organize interviews for 40 candidates with optimal time management.
 
 - ![Find potential customers](./agents/manus/images/find-potential-customers.webp)
   **Find potential customers**
+  [View Case](https://manus.im/share/AN3pVVcq4qHnWbC55XhAYB?replay=1)
   > Develop comprehensive customer mapping to identify your ideal B2B prospects.
 
 - ![Professional teleprompter](./agents/manus/images/professional-teleprompter.webp)
   **Professional teleprompter**
+  [View Case](https://manus.im/share/YIRZaLUfghVxGCN7dE6hbI?replay=1)
   > Customized teleprompter system for flawless presentations.
 
 > More use cases: [Manus Official Use Case Collection](https://manus.im/usecase-official-collection)
+
+---
+
+### [Lovart (AI Design Agent)](https://www.lovart.ai/)
+Lovart is a next-generation AI design agent, dedicated to deeply integrating human creativity with AI intelligence. It supports automated creative generation, collaborative design, and multi-scenario applications, suitable for branding, packaging, art, marketing, and more.
+
+#### Core Features
+- Human-AI co-creation: Real-time collaboration between AI and designers to boost creativity
+- Multi-scenario design: Covers branding, packaging, art, marketing, and more
+- One-click multi-style: Generate multiple styles and sizes in one go
+- Smart editing & fine-tuning: AI-assisted detail adjustment and efficient iteration
+- API integration: Seamless with mainstream design/production tools for workflow automation
+
+#### Typical Use Cases
+- ![The Bag Design](./agents/lovart/images/bag-design.png)
+  **Avant-garde Bag Design**
+  > Lovart combines avant-garde shapes and haute couture aesthetics to automatically generate unique bag design solutions.
+  [View Case](https://www.lovart.ai/r/pgmbiz7)
+- ![The Coffee Collection](./agents/lovart/images/coffee-collection.png)
+  **Coffee Brand Packaging**
+  > Creates eco-friendly and visually impactful packaging for Duck Coffee.
+  [View Case](https://www.lovart.ai/r/f2qi0ri)
+- ![The Pixel Party](./agents/lovart/images/pixel-party.png)
+  **Pixel Party Poster**
+  > Generates game-themed creative posters using pixel style and advanced typography.
+  [View Case](https://www.lovart.ai/r/1myj89s)
+- ![The Pet Brand Design](./agents/lovart/images/pet-brand-design.png)
+  **Hand-drawn Pet Brand Logo**
+  > Transforms pet images into hand-drawn brand logos, combining fun and recognition.
+  [View Case](https://www.lovart.ai/r/dursp5z)
+- ![The Art Masterpiece](./agents/lovart/images/art-masterpiece.png)
+  **Art Poster Creation**
+  > Uses bold colors and surreal textures to generate highly expressive art posters.
+  [View Case](https://www.lovart.ai/r/8gcgadq)
+- ![The Marketing Meme Set](./agents/lovart/images/marketing-meme-set.png)
+  **Marketing Meme Comic Strip**
+  > Automatically generates creative four-panel comics to boost brand marketing content.
+  [View Case](https://www.lovart.ai/r/vjicewk)
+- ![AI Design Demo GIF](./agents/lovart/images/auto-design-demo.gif)
+  **AI Design Live Demo**
+  > Showcases Lovart's automated design process and human-AI collaborative experience.
 
 ---
 

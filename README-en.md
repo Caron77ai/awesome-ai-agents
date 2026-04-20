@@ -5,6 +5,7 @@
 Awesome AI Agents is dedicated to curating and organizing a wide range of AI Agent projects, focusing on automation workflows, scenario-driven capabilities, and real-world applications. Whether you are a developer, product manager, or AI enthusiast, you can quickly discover, experience, and compare innovative agent solutions and real use cases here.
 
 - **Wide Coverage:** Browser, productivity, design, education, B2B, content creation, and more
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - **Rich Use Cases:** Each agent is paired with real-world scenarios for quick hands-on experience
 - **Continuous Updates:** Stay up-to-date with the latest in the AI Agent field—community contributions welcome!
 

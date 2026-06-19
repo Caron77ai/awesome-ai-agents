@@ -30,6 +30,8 @@ Awesome AI Agents is dedicated to curating and organizing a wide range of AI Age
   A general-purpose AI agent for multi-domain automation, suitable for data analysis, education, B2B research, and more.
 - **[Lovart (AI Design Agent)](https://www.lovart.ai/)**  
   Next-generation AI design agent for automated creative generation and collaborative design across various scenarios.
+- **[NotFair (Marketing AI Agent Skills)](https://github.com/nowork-studio/NotFair)**  
+  Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP — covering keyword research, ad audits, bid management, meta-tag optimization, and more.
 
 ---
 

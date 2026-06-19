@@ -38,6 +38,8 @@ Awesome AI Agents 致力于收录和整理各类 AI Agent 项目，聚焦自动�
   通用型 AI Agent，支持多领域自动化任务，适用于数据分析、教育、B2B 研究等多场景。
 - **[Lovart（AI 设计 Agent）](https://www.lovart.ai/)**  
   新一代 AI 设计 Agent，支持自动化创意生成与多场景设计协作，助力极致创意与高效设计落地。
+- **[NotFair（营销 AI Agent 技能集）](https://github.com/nowork-studio/NotFair)**  
+  开源 Claude Code 技能集，专注 SEO、GEO、Google Ads 和 Meta Ads 营销场景。通过 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 接入实时数据，支持关键词研究、广告审计、出价管理、元标签优化等自动化工作流。
 
 ---
 

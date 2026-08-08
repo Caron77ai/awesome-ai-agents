@@ -29,8 +29,9 @@ agents/
   > 通用型 AI Agent，支持多领域自动化任务，适用于数据分析、教育、B2B 研究等多场景。
 - [Lovart（AI 设计 Agent）](./lovart/)
   > 新一代 AI 设计 Agent，支持自动化创意生成与多场景设计协作，助力极致创意与高效设计落地。
+- [Orkas（桌面 AI 团队）](./orkas/)
+  > 开源、本地优先的桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作。
 
 > 每个 agent 目录下的 README.md 详见具体内容。
-
 
 

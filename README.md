@@ -38,6 +38,8 @@ Awesome AI Agents 致力于收录和整理各类 AI Agent 项目，聚焦自动�
   通用型 AI Agent，支持多领域自动化任务，适用于数据分析、教育、B2B 研究等多场景。
 - **[Lovart（AI 设计 Agent）](https://www.lovart.ai/)**  
   新一代 AI 设计 Agent，支持自动化创意生成与多场景设计协作，助力极致创意与高效设计落地。
+- **[Orkas（桌面 AI 团队）](https://github.com/Orkas-AI/Orkas)**<br>
+  开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话规划任务并协调专业 Agent 并行或串行工作。
 
 ---
 

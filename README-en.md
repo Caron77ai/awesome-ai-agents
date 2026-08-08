@@ -30,6 +30,8 @@ Awesome AI Agents is dedicated to curating and organizing a wide range of AI Age
   A general-purpose AI agent for multi-domain automation, suitable for data analysis, education, B2B research, and more.
 - **[Lovart (AI Design Agent)](https://www.lovart.ai/)**  
   Next-generation AI design agent for automated creative generation and collaborative design across various scenarios.
+- **[Orkas (Desktop AI Workforce)](https://github.com/Orkas-AI/Orkas)**<br>
+  Open-source, local-first desktop application where a Commander plans work and coordinates specialist agents in parallel or sequence through one chat.
 
 ---
 
@@ -347,4 +349,4 @@ For detailed contribution steps, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 This project is inspired by outstanding open-source projects and contributors in the community, especially [caron77ai/awesome-ai-agents](https://github.com/Caron77ai/awesome-ai-agents) and all pioneers in the AI Agent field!
 
---- 
+---

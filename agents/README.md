@@ -29,6 +29,8 @@ agents/
   > 通用型 AI Agent，支持多领域自动化任务，适用于数据分析、教育、B2B 研究等多场景。
 - [Lovart（AI 设计 Agent）](./lovart/)
   > 新一代 AI 设计 Agent，支持自动化创意生成与多场景设计协作，助力极致创意与高效设计落地。
+- [agent-qa（AI 应用测试 Agent）](./agent-qa/)
+  > 自然语言应用测试，结合 memidex 持久记忆、经验证的自我改进、CLI / MCP 和可审查证据。
 
 > 每个 agent 目录下的 README.md 详见具体内容。
 

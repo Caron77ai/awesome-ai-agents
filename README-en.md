@@ -30,6 +30,8 @@ Awesome AI Agents is dedicated to curating and organizing a wide range of AI Age
   A general-purpose AI agent for multi-domain automation, suitable for data analysis, education, B2B research, and more.
 - **[Lovart (AI Design Agent)](https://www.lovart.ai/)**  
   Next-generation AI design agent for automated creative generation and collaborative design across various scenarios.
+- **[agent-qa (AI App-Testing Agent)](https://vostride.com)**
+  Test web, Android and iOS apps through CLI / MCP with memidex persistent memory, validated self-improvement and reviewable evidence. [Overview and setup](./agents/agent-qa/).
 
 ---
 
